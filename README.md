@@ -1,2 +1,3 @@
 # KCC-Assignment
-KCC dsa assignment
+
+College assignments aka Hackerrank questions of currently C++ and C language.
